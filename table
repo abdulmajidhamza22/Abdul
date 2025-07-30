@@ -1,0 +1,72 @@
+<!doctype html>
+<html>
+<head>
+<title>table</title>
+</head>
+<body>
+<table border="1">
+<th></th>
+<style="background-color:pink">
+<th>MORNING CLASS</th>
+<th></th>
+<th></th>
+<th>EVENING CLASS</th>
+
+<tr>
+<td>DAYS</td>
+<td>8:00am-10:00am</td>
+<td>10:00am-12:00am</td>
+<td>12:00pm-2:00pm</td>
+<td>2:00pm-4:00pm</td>
+<td>4:00pm-6:00pm</td>
+</tr>
+<tr>
+<td>MONDAY</td>
+<td>MDL/Python/Cyber security</td>
+<td>CCNA1/ETHICAL HACKING/java script</td>
+<td rowspan="5"
+style="writing-mode:vertical-rl;text-align:center;background-color:pink">
+<h1>
+BREAK</h1></td>
+
+<td>Data science</td>
+<td>**</td>
+</tr>
+<tr>
+<td>TUESDAY</td>
+<td>ethical hacking/CCNA2c</td>
+<td>CCNA3/Network/security/Python</td>
+
+<td>IT*Esssentials/java Script</td>
+<td>***</td>
+</tr>
+<tr>
+<td>WEDNESDAY</td>
+<td>MSSDL/Python/cyber security/Network security</td>
+<td>CCNA1/CCNA2/CCNA3</td>
+<td>IT*Essential/Data Science</td>
+<td>***</td>
+</tr>
+<tr>
+<td>THURSDAY</td>
+<td>CCNA2/Ethical hacking</td>
+<td>CCNA3</td>
+
+<td>IT*Essentialss/java Script</td><td>***</td>
+</tr>
+<tr>
+<td>FRIDAY</td>
+<td>MSDL/Python/Cyber Security</td>
+<td>english/biology</td>
+
+<td>***</td>
+<td>***</td>
+</tr>
+
+
+</body>
+
+
+
+
+</html>
